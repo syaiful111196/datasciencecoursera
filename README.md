@@ -1,2 +1,2 @@
 # datasciencecoursera
-test for peer grade assognment
+test for peer grade assignment
